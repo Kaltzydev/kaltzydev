@@ -6,5 +6,5 @@
 
  <h1>Discord Account</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/533689870699331584?bg=18191c&borderRadius=15px&animated=true&idleMessage=No+momento+não+estou+fazendo+nada.&hideDiscrim=true)](https://discord.com/users/257943334528483328)
+[![Discord Presence](https://lanyard.cnrad.dev/api/533689870699331584?bg=18191c&borderRadius=15px&animated=true&idleMessage=No+momento+não+estou+fazendo+nada.&hideDiscrim=true)](https://discord.com/users/533689870699331584)
 
