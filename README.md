@@ -15,5 +15,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaltzydev&show_icons=true&theme=dark&layout=compact" alt="git-status" class="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaltzydev&theme=dark&layout=compact&langs_count=7" alt="top-langs" class="center">
     <br />
-    <img src="https://github.com/kaltzydev/kaltzydev/blob/output/github-contribution-grid-snake.svg" alt="snakegame" class="center">
-</p>
+  </p>
