@@ -9,8 +9,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  <a href="https://www.twitter.com/maltratobrancas/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://discord.gg/70s" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaltzydev&show_icons=true&theme=dark&layout=compact" alt="git-status" class="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaltzydev&theme=dark&layout=compact&langs_count=7" alt="top-langs" class="center">
